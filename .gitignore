@@ -1,0 +1,10 @@
+.env
+*.log
+*.csv
+*.csv.gz
+__pycache__/
+*.pyc
+backup_*/
+eddy_params.json
+STATUS.md
+*.gz
